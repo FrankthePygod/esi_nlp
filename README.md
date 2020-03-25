@@ -32,7 +32,47 @@ let's create task list and then get to work separately.
 ##### research topic:
 
 1. Json format
+
+- JSON or JavaScript Object Notation is a language-independent open data format that uses human-readable text to express data objects consisting of attribute-value pairs.
+
+- Example:
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "isAlive": true,
+  "age": 27,
+  "address": {
+    "streetAddress": "21 2nd Street",
+    "city": "New York",
+    "state": "NY",
+    "postalCode": "10021-3100"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "212 555-1234"
+    },
+    {
+      "type": "office",
+      "number": "646 555-4567"
+    }
+  ],
+  "children": [],
+  "spouse": null
+}
+
 2. Web scrapping
+
+- Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. Web scraping software may access the World Wide Web directly using the Hypertext Transfer Protocol, or through a web browser.
+
+- Python Web Scraping Tutorials: https://realpython.com/tutorials/web-scraping/
+
+- Automation Tools:
+a. Web Scraper: https://webscraper.io/
+b. ParseHUb: https://www.parsehub.com/
+c. Mozenda: https://www.mozenda.com/software-pricing/
+d. Grepsr: https://www.grepsr.com/?utm_source=adwords&utm_campaign=US-Search-Google-Scraping&utm_medium=cpc&utm_term=Simple_Plaform&utm_content=No_Coding_Installation&gclid=EAIaIQobChMIipKm9f-z6AIVxJ6zCh3m2wSmEAAYAiAAEgIjIvD_BwE
+
 3. NLP
 
 ##### python package:
