@@ -1,6 +1,7 @@
 # esi_nlp
 
 let's get text data and start to analyze!!
+try to add things now..
 
 # mac setup:
 
