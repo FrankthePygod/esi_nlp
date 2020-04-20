@@ -1,0 +1,5 @@
+account_id,account_name,campaign_id,campaign_name,clicks,cost_per_estimated_ad_recallers,cpc,date_start,date_stop,estimated_ad_recall_rate,estimated_ad_recallers,objective
+481286649315818,Elephant Script Inc.,23844413771470613,VDay LTO 2019 Q1,101,,1.052079,2020-02-01,2020-04-19,,0,REACH
+481286649315818,Elephant Script Inc.,23844426453100613,2020 Q1 - Brand Campaign - Illustration,510,0.057472,0.561196,2020-02-01,2020-04-19,3.240183,4980,BRAND_AWARENESS
+481286649315818,Elephant Script Inc.,23844480158980613,Reach A/B testing,42,,1.428571,2020-02-01,2020-04-19,,0,REACH
+481286649315818,Elephant Script Inc.,23844650133000613,2020 Q2 Infinet - InfiKIOSK,131,,0.723206,2020-02-01,2020-04-19,,0,LINK_CLICKS
